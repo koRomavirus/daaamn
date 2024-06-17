@@ -1,0 +1,76 @@
+﻿<Window x:Class="WpfApp1.Views.ObrOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:WpfApp1.ViewModal"
+        xmlns:local="clr-namespace:WpfApp1.Views"
+        mc:Ignorable="d"
+        Title="ObrOrder" Height="450" Width="600">
+
+    <Window.DataContext>
+        <vm:ObrOrderViewModal/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            
+        </Grid.ColumnDefinitions>
+        <StackPanel 
+            Orientation="Vertical"
+            HorizontalAlignment="Center"
+            Grid.Column="1">
+            <TextBlock
+                Margin="8"
+                Text="Добавление оборудования"/>
+
+
+            <TextBlock
+                Text="Название"
+                Margin="8"/>
+            <TextBox
+                Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"
+                Margin="8"/>
+
+            <TextBlock
+                Text="Описание"
+                Margin="8"/>
+            <TextBox
+                Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}"
+                Margin="8"/>
+
+            <TextBlock
+                Text="Тип"
+                Margin="8"/>
+            <TextBox
+                Text="{Binding Type, UpdateSourceTrigger=PropertyChanged}"
+                Margin="8"/>
+
+            <Button
+               Content="Добавить" 
+               Margin="8"
+               Command="{Binding EquipmentCreate}"/>
+            
+        </StackPanel>
+        <ListView Grid.Column="0"
+                  ItemsSource="{Binding Equipment}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Название"
+                                    DisplayMemberBinding="{Binding Name}"/>
+
+                    <GridViewColumn Header="Описание"
+                                    DisplayMemberBinding="{Binding Description}"/>
+
+
+                    <GridViewColumn Header="Тип"
+                                    DisplayMemberBinding="{Binding Type}"/>
+
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

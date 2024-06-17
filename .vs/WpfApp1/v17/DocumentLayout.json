@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\viewmodal\\obrorderviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodal\\obrorderviewmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\views\\obrorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\obrorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\views\\obrorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\obrorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\views\\autharization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\autharization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\views\\autharization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\autharization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\source\\repos\\wpfapp1\\wpfapp1\\entities\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1A6F2-291C-4376-BE02-751AC77AC14B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Order.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:16:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:16:17.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObrOrderViewModal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\ViewModal\\ObrOrderViewModal.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModal\\ObrOrderViewModal.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\ViewModal\\ObrOrderViewModal.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModal\\ObrOrderViewModal.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:19:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObrOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\ObrOrder.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\ObrOrder.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\ObrOrder.xaml",
+              "RelativeToolTip": "WpfApp1\\Views\\ObrOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T17:58:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Equipment.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Equipment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Equipment.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:45:45.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autharization.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\Autharization.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\Autharization.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\Autharization.xaml",
+              "RelativeToolTip": "WpfApp1\\Views\\Autharization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T13:52:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObrOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\ObrOrder.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\ObrOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\ObrOrder.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Views\\ObrOrder.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:50:47.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autharization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\Autharization.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\Autharization.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Views\\Autharization.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Views\\Autharization.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:15:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Report.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Report.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Report.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:15:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T00:10:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Priority.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Priority.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Priority.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:37:20.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:10:53.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Specialist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Specialist.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Specialist.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Specialist.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Specialist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:29:01.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Admin.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:34:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:10:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvycAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:59:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Condition.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Entities\\Condition.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1\\Entities\\Condition.cs",
+              "RelativeToolTip": "WpfApp1\\Entities\\Condition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:36:23.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
